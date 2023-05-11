@@ -5,7 +5,8 @@ This is a robot arm that can do several things from my mobile as a controller.
 
 
 the ArmController.aia you can import this file in MIT App Inventor to modify or install the app 
-you should connect to the NodeMCU_ESP8266 wifi 
+
+after installing the app you should connect to the NodeMCU_ESP8266 wifi 
 
 
 SSID = "Robot Arm"
